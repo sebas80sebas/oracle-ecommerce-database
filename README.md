@@ -305,6 +305,13 @@ This project demonstrates comprehensive database management skills covering:
 
 ## 📝 Documentation
 
+For comprehensive technical details, implementation specifications, and in-depth analysis, please refer to the complete project documentation:
+
+- **Practice 1:** `Practica1.pdf` - Relational Design & Data Loading
+- **Practice 2:** `Practica2.pdf` - Advanced Queries, Procedures & Triggers
+- **Practice 3:** `Practica3.pdf` - Physical Design & Performance Optimization
+
+All documents are available in Spanish and include detailed explanations, code examples, and performance metrics.
 Each practice includes detailed documentation:
 
 - Design decisions with relational algebra foundations
